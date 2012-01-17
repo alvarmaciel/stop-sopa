@@ -1,4 +1,7 @@
-# STOP SOPA
+# STOP SOPA EN/ES
+Este repositorio es para que puedan apagar sus pàginas el 18 de Enero, en protesta de la ley SOPA yla ley PIPA.
+Agrego además un plugin para apagar blogs con wordpress. Está hecho en base al plugin Site Manteince http://wordpress.org/extend/plugins/wet-maintenance/
+Este plugin apaga el sitio, pone el texto en castellano que puede visualizarse acá: http://t.co/9HdzdFML y además pone el sitio con un codigo 503
 
 This repository is my take on "going dark" for the [January 18 blackout to protest SOPA](http://sopastrike.com/).
 
